@@ -1,0 +1,62 @@
+{
+   "TradeStation":{
+      "value":true,
+      "msg":"Contact Aat +92**********"
+   },
+   "TwitterClone":{
+      "value":true,
+      "msg":"App has been stopped!"
+   },
+   "grube":{
+      "value":true,
+      "msg":"App's limit has been reached!"
+   },
+   "laserbau":{
+      "value":true,
+      "msg":"Data limit reached!"
+   },
+   "Chefdarbari":{
+      "value":true,
+      "msg":"App has been stopped!"
+   },
+   "My Trips":{
+      "value":true,
+      "msg":"App has been stopped!"
+   },
+   "MyKeyboard":{
+      "value":true,
+      "msg":"App has been stopped!"
+   },
+   "PaymentApp":{
+      "value":false,
+      "msg":""
+   },
+   "newvpn":{
+      "value":true,
+      "msg":"App has been stopped!"
+   },
+   "EWasteManagement":{
+      "value":true,
+      "msg":"App has been stopped!"
+   },
+   "EgyptKeyboard":{
+      "value":false,
+      "msg":"App has been stopped!"
+   },
+   "onlineStore":{
+      "value":true,
+      "msg":"App has been stopped!"
+   },
+   "trip4pet":{
+      "value":true,
+      "msg":"App stopped working..."
+   },
+   "BudgetBee":{
+      "value":true,
+      "msg":"App stopped working..."
+   },
+   "DataEntryDemo1":{
+      "value":true,
+      "version":"33"
+   }  
+}
